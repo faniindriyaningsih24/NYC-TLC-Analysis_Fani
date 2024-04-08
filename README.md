@@ -4,7 +4,7 @@ Data analisis tentang dataset NYC-TLC-Record
 # Background / Latar Belakang
 New York City Taxi and Limousine Commission (TLC),yang dibentuk pada tahun 1971, adalah lembaga yang bertanggung jawab atas lisensi dan regulasi taksi Medallion (Kuning) Kota New York, kendaraan sewa (layanan dasar komunitas, mobil hitam, dan limusin mewah), van komuter, dan kendaraan paratransit.
 
-TLC berdiri dari zaman dimana teknologi belum banyak dimanfaatkan dalam kehidupan sehari-hari hingga bertahan di era modern seperti ini, dimana teknologi banyak sekali dimanfaatkan dalam kehidupan sehari-hari. Penggunaan teknologi pun diterapkan TLC pada `trip type`. Karakteristik penumpang terhadap `trip type` dapat menjelaskan karakteristik sebuah wilayah. Namun fenomenanya tingginya frekuensi pada salah satu `trip type`, tidak berpengaruh terhadap besarnya `rata-rata total amount`.
+TLC berdiri dari zaman dimana teknologi belum banyak dimanfaatkan dalam kehidupan sehari-hari hingga bertahan di era modern seperti ini, dimana teknologi banyak sekali dimanfaatkan dalam kehidupan sehari-hari. Penggunaan teknologi pun diterapkan TLC pada `trip type`. Namun fenomenanya tingginya frekuensi pada salah satu `trip type` disuatu wilayah, tidak berpengaruh terhadap besarnya `rata-rata total amount`.
 
 
 Sumber dapat diakses pada link berikut [klik link](https://www.nyc.gov/site/tlc/about/about-tlc.page).
